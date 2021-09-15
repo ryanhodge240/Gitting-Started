@@ -60,8 +60,36 @@ Creating a branch is useful for the example given in the intro. This is where a 
 Examples:
 ```python
 git branch testing #Creates a new branch named "testing"
+git branch #Lists all the branches you have used locally
 git checkout testing #Switches to the branch "testing"
+git checkout -b new-branch #Creates a new branch and switches to it
 git branch -h #Shows all the options
 ```
 
 ## Practice with Git
+Here we will be editing this read me files and adding other files to practice with git.
+
+### Create your own branch
+Create a branch with your first and last name. For example, mine would be named `ryan-hodge`
+
+### Changing the Code
+Add a python if statement in this code block. Then commit and push to your branch!
+```python
+```
+
+### Create Another Branch
+Create a different branch named like `feature-<your_name>`. e.g. mine would be `feature-ryan-hodge`.
+
+### Make Another Change
+Change the for loop in this code block to print `Goodbye world` 100 times instead. Once finished, commit and push to the feature branch.
+```python
+for i in range(200):
+    print('Hello world')
+```
+
+### Merge your 2 Branches Together
+Use the following command to merge your two branches together. Take note of what happens.
+```python
+git checkout branch-name #Replace 'branch-name' with the branch you want to keep
+git merge fix #Replace 'fix' with the branch you want to merge
+```
