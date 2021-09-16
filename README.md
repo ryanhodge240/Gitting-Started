@@ -92,7 +92,7 @@ Create a different branch named like `feature-<your_name>`. e.g. mine would be `
 ### Make Another Change
 Change the for loop in this code block to print `Goodbye world` 100 times instead. Once finished, commit and push to the feature branch.
 ```python
-for i in range(200):
+for i in range(100):
     print('Hello world')
 ```
 
