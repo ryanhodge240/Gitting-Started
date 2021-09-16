@@ -99,3 +99,4 @@ Use the following command to merge your two branches together. Take note of what
 git checkout branch-name #Replace 'branch-name' with the branch you want to keep
 git merge fix #Replace 'fix' with the branch you want to merge
 ```
+gia
