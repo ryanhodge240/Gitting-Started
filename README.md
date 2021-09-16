@@ -23,10 +23,7 @@ When downloading, a bunch of prompts will pop up. Most of them, if not all, you 
 
 Next, although not necessary for using git, I use vsCode for just about every programming language there is. I would definitely download this, and it has a great integrated terminal to use with Git. You can download that here: [vsCode](https://code.visualstudio.com/download).
 
-For **Robotics** specifically, there is a different version of vscode to download. The reason there is a different version is so the changed settings will not affect those of your personal vsCode. I recommend having both; one for personal use and the other for robotics. Here are the links for downloading the robotics version 
-- Windows: [RMC Windows vsCode](https://github.com/wpilibsuite/allwpilib/releases/download/v2021.3.1/WPILib_Windows64-2021.3.1.iso).
-- Mac: [RMC Mac vsCode](https://github.com/wpilibsuite/allwpilib/releases/download/v2021.3.1/WPILib_macOS-2021.3.1.dmg) 
-Once downloaded, follow the instuctions on this page of the [FRC WPILib website](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) to continue the installation.
+For **Robotics** specifically, there is a different version of vscode to download. The reason there is a different version is so the changed settings will not affect those of your personal vsCode. I recommend having both; one for personal use and the other for robotics. Here is the link for downloading the robotics version on Windows: [RMC vsCode](https://github.com/wpilibsuite/allwpilib/releases/download/v2021.3.1/WPILib_Windows64-2021.3.1.iso). Once downloaded, follow the instuctions on this page of the [FRC WPILib website](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) to continue the installation.
 
 ### Repositories
 This is basically a folder with the code in it. This page that you are currently on is an example of one! It is holding all the code for this readme file. Once you create a repository with code in it, you will start committing changes to it as you work.
